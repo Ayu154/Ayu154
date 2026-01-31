@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://lohaniayush.wordpress.com/](https://lohaniayush.wordpress.com/)
 
-- 💬 Ask me about **we**
+- 💬 Ask me about **web-dev**
 
 - 📫 How to reach me **ayushlohani55@gmail.com**
 

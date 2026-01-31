@@ -27,28 +27,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayu154&show_icons=true&locale=en&layout=compact" alt="ayu154" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayu154&" alt="ayu154" /></p>
-
-
-<h1 align="center">Namaskar! Myself Aayush Lohani</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
-
-- 🔭 I’m currently working on [RPG Game](https://github.com/Ayu154/RPG_Game)
-
-- 🌱 I’m currently learning **DSA**
-
-- 👨‍💻 All of my projects are available at [https://www.lohaniayush.com.np/](https://www.lohaniayush.com.np/)
-
-- 📝 I regularly write articles on [https://lohaniayush.wordpress.com/](https://lohaniayush.wordpress.com/)
-
-- 💬 Ask me about **web-dev**
-
-- 📫 How to reach me **ayushlohani55@gmail.com**
-
-- ⚡ Fun fact **I'm into animes and web sires**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush lohani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush lohani" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayu145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayu145" height="30" width="40" /></a>
-</p>
-

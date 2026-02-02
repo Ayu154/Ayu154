@@ -1,5 +1,5 @@
-<h1 align="center">Namaskar! Myself Aayush Lohani</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h1 align="center">Namaskar! Myself Aayush Lohani.</h1>
+<h3 align="center">A passionate frontend developer from Nepal.</h3>
 
 - 🔭 I’m currently working on [RPG Game](https://github.com/Ayu154/RPG_Game)
 
